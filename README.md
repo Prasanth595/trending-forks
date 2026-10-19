@@ -35,6 +35,7 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-19 | [OpenHands](https://github.com/Prasanth595/OpenHands) | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 91,257 | AI-driven software development platform — autonomous agents that write and ship code. |
 | 2026-10-19 | [minimind](https://github.com/Prasanth595/minimind) | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 63,984 | Train a 64M-parameter LLM from scratch in about 2 hours — minimal LLM training playground. |
 | 2026-10-19 | [orca](https://github.com/Prasanth595/orca) | [stablyai/orca](https://github.com/stablyai/orca) | 97,514 | Run a fleet of coding agents (Grok Bot, Claude Code) from desktop, mobile, or remote runtime with your own subscription. |
+| 2026-10-19 | [AI-For-Beginners-mirror](https://github.com/Prasanth595/AI-For-Beginners-mirror) | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 69,983 | 12-week, 24-lesson course teaching AI fundamentals — Microsoft's AI for Beginners curriculum. |
 
 ## How this works
 
