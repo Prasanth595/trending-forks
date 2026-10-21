@@ -54,6 +54,24 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-20 | [langchain](https://github.com/Prasanth595/langchain) | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 148,120 | Agent engineering platform for building LLM-powered applications and agents. |
 | 2026-10-20 | [browser-use](https://github.com/Prasanth595/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 118,614 | Open-source Python library for AI browser agents, plus hosted stealth browsers. |
 | 2026-10-20 | [paperclip](https://github.com/Prasanth595/paperclip) | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 105,019 | Open-source app for managing AI agents at work. |
+| 2026-10-21 | [supabase](https://github.com/Prasanth595/supabase) | [supabase/supabase](https://github.com/supabase/supabase) | 112,688 | Open-source Postgres backend platform for web, mobile, and AI apps — database, auth, and storage. |
+| 2026-10-21 | [twenty](https://github.com/Prasanth595/twenty) | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 58,863 | Open-source CRM alternative to Salesforce, designed for AI-era sales workflows. |
+| 2026-10-21 | [freehire](https://github.com/Prasanth595/freehire) | [strelov1/freehire](https://github.com/strelov1/freehire) | 2,075 | Open-source job-search engine aggregating listings for job seekers. |
+| 2026-10-21 | [argo-cd](https://github.com/Prasanth595/argo-cd) | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 24,441 | GitOps continuous delivery tool — declarative deployments to Kubernetes. |
+| 2026-10-21 | [k9s](https://github.com/Prasanth595/k9s) | [derailed/k9s](https://github.com/derailed/k9s) | 34,853 | Terminal UI for managing Kubernetes clusters from the command line. |
+| 2026-10-21 | [k3s](https://github.com/Prasanth595/k3s) | [k3s-io/k3s](https://github.com/k3s-io/k3s) | 34,236 | Lightweight Kubernetes distribution for edge, IoT, and small clusters. |
+| 2026-10-21 | [devops-exercises](https://github.com/Prasanth595/devops-exercises) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 84,919 | Community collection of DevOps interview questions and hands-on exercises. |
+| 2026-10-21 | [cli](https://github.com/Prasanth595/cli) | [httpie/cli](https://github.com/httpie/cli) | 38,665 | Human-friendly command-line HTTP client — test APIs, debug requests, downloads. |
+| 2026-10-21 | [dokploy](https://github.com/Prasanth595/dokploy) | [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | 37,899 | Self-hosted open-source alternative to Vercel/Netlify/Heroku for app deployment. |
+| 2026-10-21 | [trivy](https://github.com/Prasanth595/trivy) | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38,569 | Vulnerability and misconfiguration scanner for containers, Kubernetes, IaC, and code. |
+| 2026-10-21 | [etcd](https://github.com/Prasanth595/etcd) | [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52,409 | Distributed key-value store — reliable coordination backend for Kubernetes clusters. |
+| 2026-10-21 | [strix](https://github.com/Prasanth595/strix) | [usestrix/strix](https://github.com/usestrix/strix) | 70,668 | Open-source AI penetration-testing tool that finds and fixes app vulnerabilities. |
+| 2026-10-21 | [spaCy](https://github.com/Prasanth595/spaCy) | [explosion/spaCy](https://github.com/explosion/spaCy) | 33,981 | Production-grade NLP library for Python — tokenization, NER, pipelines. |
+| 2026-10-21 | [pytorch-lightning](https://github.com/Prasanth595/pytorch-lightning) | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31,422 | Framework to pretrain and finetune AI models on any GPU count with zero code changes. |
+| 2026-10-21 | [awesome-ai-agents](https://github.com/Prasanth595/awesome-ai-agents) | [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | 30,557 | Curated list of autonomous AI agent projects and frameworks. |
+| 2026-10-21 | [MoneyPrinterTurbo](https://github.com/Prasanth595/MoneyPrinterTurbo) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 133,674 | One-click AI workflow that generates HD short videos from a topic or keyword. |
+| 2026-10-21 | [TradingAgents](https://github.com/Prasanth595/TradingAgents) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 112,481 | Multi-agent LLM framework for financial trading research. |
+| 2026-10-21 | [DragGAN](https://github.com/Prasanth595/DragGAN) | [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) | 35,720 | Interactive point-based image editing with generative adversarial networks (SIGGRAPH 2023). |
 
 ## How this works
 
