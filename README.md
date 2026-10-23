@@ -57,8 +57,7 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-21 | [supabase](https://github.com/Prasanth595/supabase) | [supabase/supabase](https://github.com/supabase/supabase) | 112,688 | Open-source Postgres backend platform for web, mobile, and AI apps — database, auth, and storage. |
 | 2026-10-21 | [twenty](https://github.com/Prasanth595/twenty) | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 58,863 | Open-source CRM alternative to Salesforce, designed for AI-era sales workflows. |
 | 2026-10-21 | [freehire](https://github.com/Prasanth595/freehire) | [strelov1/freehire](https://github.com/strelov1/freehire) | 2,075 | Open-source job-search engine aggregating listings for job seekers. |
-| 2026-10-21 | [argo-cd](https://github.com/Prasanth595/argo-cd) | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 24,441 | GitOps continuous delivery tool — declarative deployments to 
-Kubernetes. |
+| 2026-10-21 | [argo-cd](https://github.com/Prasanth595/argo-cd) | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 24,441 | GitOps continuous delivery tool — declarative deployments to  Kubernetes. |
 | 2026-10-21 | [k9s](https://github.com/Prasanth595/k9s) | [derailed/k9s](https://github.com/derailed/k9s) | 34,853 | Terminal UI for managing Kubernetes clusters from the command line. |
 | 2026-10-21 | [k3s](https://github.com/Prasanth595/k3s) | [k3s-io/k3s](https://github.com/k3s-io/k3s) | 34,236 | Lightweight Kubernetes distribution for edge, IoT, and small clusters. |
 | 2026-10-21 | [devops-exercises](https://github.com/Prasanth595/devops-exercises) | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 84,919 | Community collection of DevOps interview questions and hands-on exercises. |
