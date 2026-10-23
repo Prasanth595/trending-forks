@@ -71,6 +71,21 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-21 | [MoneyPrinterTurbo-mirror](https://github.com/Prasanth595/MoneyPrinterTurbo-mirror) | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 133,674 | One-click AI workflow that generates HD short videos from a topic or keyword. |
 | 2026-10-21 | [TradingAgents](https://github.com/Prasanth595/TradingAgents) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 112,481 | Multi-agent LLM framework for financial trading research. |
 | 2026-10-21 | [DragGAN](https://github.com/Prasanth595/DragGAN) | [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) | 35,720 | Interactive point-based image editing with generative adversarial networks (SIGGRAPH 2023). |
+| 2026-10-23 | [OpenShell](https://github.com/Prasanth595/OpenShell) | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 18,259 | NVIDIA's safe, private runtime for running autonomous AI agents. |
+| 2026-10-23 | [VoxCPM](https://github.com/Prasanth595/VoxCPM) | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 40,008 | Tokenizer-free text-to-speech model for multilingual speech generation and voice cloning. |
+| 2026-10-23 | [helm](https://github.com/Prasanth595/helm) | [helm/helm](https://github.com/helm/helm) | 30,363 | The Kubernetes package manager — chart-based application deployment and lifecycle management. |
+| 2026-10-23 | [consul](https://github.com/Prasanth595/consul) | [hashicorp/consul](https://github.com/hashicorp/consul) | 30,087 | Service discovery, configuration, and service-mesh networking across dynamic infrastructure. |
+| 2026-10-23 | [infisical](https://github.com/Prasanth595/infisical) | [Infisical/infisical](https://github.com/Infisical/infisical) | 29,940 | Open-source secrets, certificate, and access management platform for apps and AI agents. |
+| 2026-10-23 | [dagger](https://github.com/Prasanth595/dagger) | [dagger/dagger](https://github.com/dagger/dagger) | 16,382 | Programmable automation engine to build, test, and ship code — runs locally, in CI, or in the cloud. |
+| 2026-10-23 | [jenkins](https://github.com/Prasanth595/jenkins) | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26,678 | Extensible automation server for building CI/CD pipelines. |
+| 2026-10-23 | [kestra](https://github.com/Prasanth595/kestra) | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29,957 | Event-driven orchestration and scheduling platform for data and infrastructure pipelines. |
+| 2026-10-23 | [lynis](https://github.com/Prasanth595/lynis) | [CISOfy/lynis](https://github.com/CISOfy/lynis) | 16,534 | Security auditing and system-hardening tool for Linux, macOS, and UNIX systems. |
+| 2026-10-23 | [sops](https://github.com/Prasanth595/sops) | [getsops/sops](https://github.com/getsops/sops) | 23,489 | Encrypt secrets inside config files with AWS/Azure/GCP KMS or PGP-backed secret management. |
+| 2026-10-23 | [ai](https://github.com/Prasanth595/ai) | [vercel/ai](https://github.com/vercel/ai) | 27,484 | Vercel's AI SDK — open-source TypeScript library for building AI-powered applications and agents. |
+| 2026-10-23 | [llm-course](https://github.com/Prasanth595/llm-course) | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 84,628 | Free LLM course with roadmaps and Colab notebooks for learning large language models end to end. |
+| 2026-10-23 | [crawl4ai](https://github.com/Prasanth595/crawl4ai) | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 86,090 | Open-source crawler that turns any website into clean, LLM-ready Markdown for AI agents. |
+| 2026-10-23 | [repomix](https://github.com/Prasanth595/repomix) | [yamadashy/repomix](https://github.com/yamadashy/repomix) | 28,990 | Pack an entire repository into a single AI-friendly file to feed codebases to LLMs. |
+| 2026-10-23 | [semantic-kernel](https://github.com/Prasanth595/semantic-kernel) | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28,694 | Microsoft's SDK for integrating LLM capabilities into applications. |
 
 ## How this works
 
