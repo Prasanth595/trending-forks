@@ -102,7 +102,20 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-24 | [tensorflow](https://github.com/Prasanth595/tensorflow) | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 201214 | Open-source machine learning framework for everyone. |
 | 2026-10-24 | [pytorch](https://github.com/Prasanth595/pytorch) | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 105030 | Tensors and dynamic neural networks in Python with strong GPU acceleration. |
 | 2026-10-24 | [ML-For-Beginners](https://github.com/Prasanth595/ML-For-Beginners) | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 91704 | 12-week, 26-lesson classic machine learning course. |
-| 2026-10-24 | [tesseract](https://github.com/Prasanth595/tesseract) | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 77147 | Open-source OCR engine. |  
+| 2026-10-24 | [tesseract](https://github.com/Prasanth595/tesseract) | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 77147 | Open-source OCR engine. |
+| 2026-10-25 | [thinkrail](https://github.com/Prasanth595/thinkrail) | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 1132 | Lightweight, real IDE for vibe coding with pi that customises itself around the way you work. |
+| 2026-10-25 | [coolify](https://github.com/Prasanth595/coolify) | [coollabsio/coolify](https://github.com/coollabsio/coolify) | 63846 | Self-hostable PaaS alternative to Vercel, Heroku and Netlify for deploying sites, databases and apps on your own servers. |
+| 2026-10-25 | [ziwei-doushu](https://github.com/Prasanth595/ziwei-doushu) | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 7373 | Open-source Zi Wei Dou Shu chart engine with complete charting algorithms, four-transformations system and pattern knowledge base. |
+| 2026-10-25 | [claude-seo](https://github.com/Prasanth595/claude-seo) | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 20217 | Universal SEO skill for Claude Code — 26 sub-skills and 19 sub-agents for technical SEO, schema, GEO/AEO and reporting. |
+| 2026-10-25 | [dokku](https://github.com/Prasanth595/dokku) | [dokku/dokku](https://github.com/dokku/dokku) | 32202 | Docker-powered PaaS to build and manage the lifecycle of applications. |
+| 2026-10-25 | [infracost](https://github.com/Prasanth595/infracost) | [infracost/infracost](https://github.com/infracost/infracost) | 12588 | Cloud cost intelligence for engineers, AI coding agents, and CI/CD — shift FinOps left. |
+| 2026-10-25 | [terraform-provider-aws](https://github.com/Prasanth595/terraform-provider-aws) | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | 11126 | AWS provider that enables Terraform to manage AWS resources. |
+| 2026-10-25 | [microservices-demo](https://github.com/Prasanth595/microservices-demo) | [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | 21089 | Sample cloud-first app with 10 microservices showcasing Kubernetes, Istio, and gRPC. |
+| 2026-10-25 | [uptime-kuma](https://github.com/Prasanth595/uptime-kuma) | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92887 | Fancy self-hosted monitoring tool. |
+| 2026-10-25 | [grafana](https://github.com/Prasanth595/grafana) | [grafana/grafana](https://github.com/grafana/grafana) | 77490 | Open, composable observability and data visualization platform for metrics, logs, and traces. |
+| 2026-10-25 | [prometheus](https://github.com/Prasanth595/prometheus) | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 66747 | Monitoring system and time series database. |
+| 2026-10-25 | [Vane](https://github.com/Prasanth595/Vane) | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 37722 | AI-powered answering engine. |
+| 2026-10-25 | [n8n](https://github.com/Prasanth595/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 208539 | Fair-code workflow automation platform with native AI capabilities — visual building combined with code.  
 
 ## How this works
 
