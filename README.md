@@ -89,6 +89,20 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-23 | [crawl4ai](https://github.com/Prasanth595/crawl4ai) | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 86,090 | Open-source crawler that turns any website into clean, LLM-ready Markdown for AI agents. |
 | 2026-10-23 | [repomix](https://github.com/Prasanth595/repomix) | [yamadashy/repomix](https://github.com/yamadashy/repomix) | 28,990 | Pack an entire repository into a single AI-friendly file to feed codebases to LLMs. |
 | 2026-10-23 | [semantic-kernel](https://github.com/Prasanth595/semantic-kernel) | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28,694 | Microsoft's SDK for integrating LLM capabilities into applications. |
+| 2026-10-24 | [agent-toolkit-for-aws](https://github.com/Prasanth595/agent-toolkit-for-aws) | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | 2968 | Official AWS MCP servers, skills and plugins for AI agents building on AWS. |
+| 2026-10-24 | [hallmark](https://github.com/Prasanth595/hallmark) | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 31503 | Anti-AI-slop design skill for Claude Code, Cursor and Codex. |
+| 2026-10-24 | [impeccable](https://github.com/Prasanth595/impeccable) | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 85860 | Design language that makes AI harnesses better at design. |
+| 2026-10-24 | [microduck](https://github.com/Prasanth595/microduck) | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | 10632 | Tiny biped duck robot project. |
+| 2026-10-24 | [gemini-cli](https://github.com/Prasanth595/gemini-cli) | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 107602 | Open-source AI agent bringing Gemini into the terminal. |
+| 2026-10-24 | [cindy](https://github.com/Prasanth595/cindy) | [makecindy/cindy](https://github.com/makecindy/cindy) | 3756 | Open-source AI agent that works out of the box. |
+| 2026-10-24 | [portainer](https://github.com/Prasanth595/portainer) | [portainer/portainer](https://github.com/portainer/portainer) | 38704 | Makes Docker and Kubernetes management easy. |
+| 2026-10-24 | [istio](https://github.com/Prasanth595/istio) | [istio/istio](https://github.com/istio/istio) | 38470 | Connect, secure, control and observe services (service mesh). |
+| 2026-10-24 | [coder](https://github.com/Prasanth595/coder) | [coder/coder](https://github.com/coder/coder) | 17160 | Secure development environments for developers and their agents. |
+| 2026-10-24 | [terragrunt](https://github.com/Prasanth595/terragrunt) | [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) | 9895 | Flexible orchestration tool to scale Terraform/OpenTofu code. |
+| 2026-10-24 | [tensorflow](https://github.com/Prasanth595/tensorflow) | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 201214 | Open-source machine learning framework for everyone. |
+| 2026-10-24 | [pytorch](https://github.com/Prasanth595/pytorch) | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 105030 | Tensors and dynamic neural networks in Python with strong GPU acceleration. |
+| 2026-10-24 | [ML-For-Beginners](https://github.com/Prasanth595/ML-For-Beginners) | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 91704 | 12-week, 26-lesson classic machine learning course. |
+| 2026-10-24 | [tesseract](https://github.com/Prasanth595/tesseract) | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 77147 | Open-source OCR engine. |  
 
 ## How this works
 
