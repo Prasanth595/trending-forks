@@ -116,6 +116,30 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-25 | [prometheus](https://github.com/Prasanth595/prometheus) | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 66747 | Monitoring system and time series database. |
 | 2026-10-25 | [Vane](https://github.com/Prasanth595/Vane) | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 37722 | AI-powered answering engine. |
 | 2026-10-25 | [n8n](https://github.com/Prasanth595/n8n) | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 208539 | Fair-code workflow automation platform with native AI capabilities — visual building combined with code.  
+| 2026-10-26 | [SkillSpector](https://github.com/Prasanth595/SkillSpector) | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 22685 | Security scanner for AI agent skills — detects vulnerabilities, malicious patterns and prompt injection in Claude Code, Codex and MCP skills before install. |
+| 2026-10-26 | [openbot](https://github.com/Prasanth595/openbot) | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 2149 | Local-first desktop workspace for persistent AI teammates running Codex, Claude and Grok. |
+| 2026-10-26 | [Agent-Reach](https://github.com/Prasanth595/Agent-Reach) | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 104725 | Gives an AI agent eyes on the whole internet — search Twitter, Reddit, YouTube, GitHub and more from one CLI with no API fees. |
+| 2026-10-26 | [postiz-app](https://github.com/Prasanth595/postiz-app) | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 39088 | Agentic social media scheduling tool. |
+| 2026-10-26 | [andrej-karpathy-skills](https://github.com/Prasanth595/andrej-karpathy-skills) | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 225328 | Single CLAUDE.md file improving Claude Code behaviour, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| 2026-10-26 | [Stirling-PDF](https://github.com/Prasanth595/Stirling-PDF) | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 95148 | Locally hosted web application for performing operations on PDF files. |
+| 2026-10-26 | [moby](https://github.com/Prasanth595/moby) | [moby/moby](https://github.com/moby/moby) | 72213 | Collaborative project for the container ecosystem to assemble container-based systems. |
+| 2026-10-26 | [dive](https://github.com/Prasanth595/dive) | [wagoodman/dive](https://github.com/wagoodman/dive) | 54671 | Tool for exploring each layer in a Docker image. |
+| 2026-10-26 | [harbor](https://github.com/Prasanth595/harbor) | [goharbor/harbor](https://github.com/goharbor/harbor) | 29624 | Open source trusted cloud native registry that stores, signs and scans content. |
+| 2026-10-26 | [cilium](https://github.com/Prasanth595/cilium) | [cilium/cilium](https://github.com/cilium/cilium) | 25718 | eBPF-based networking, security and observability for cloud native environments. |
+| 2026-10-26 | [scikit-learn](https://github.com/Prasanth595/scikit-learn) | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67960 | Machine learning in Python. |
+| 2026-10-27 | [keras](https://github.com/Prasanth595/keras) | [keras-team/keras](https://github.com/keras-team/keras) | 64392 | Deep learning for humans. |
+| 2026-10-27 | [opencv](https://github.com/Prasanth595/opencv) | [opencv/opencv](https://github.com/opencv/opencv) | 91343 | Open source computer vision library. |
+| 2026-10-27 | [Prompt-Engineering-Guide](https://github.com/Prasanth595/Prompt-Engineering-Guide) | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 79581 | Guides, papers, lessons and notebooks for prompt engineering, RAG and AI agents. |
+| 2026-10-27 | [ultralytics](https://github.com/Prasanth595/ultralytics) | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 62903 | YOLO object detection, segmentation, classification, pose estimation and tracking. |
+| 2026-10-27 | [awesome-sysadmin](https://github.com/Prasanth595/awesome-sysadmin) | [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) | 35523 | Curated list of open-source sysadmin resources. |
+| 2026-10-27 | [floci](https://github.com/Prasanth595/floci) | [floci-io/floci](https://github.com/floci-io/floci) | 27183 | Light, free AWS local emulator alternative. |
+| 2026-10-27 | [seaweedfs](https://github.com/Prasanth595/seaweedfs) | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | 35770 | Distributed storage system for object storage, file systems and Iceberg tables handling billions of files. |
+| 2026-10-27 | [atlantis](https://github.com/Prasanth595/atlantis) | [runatlantis/atlantis](https://github.com/runatlantis/atlantis) | 9336 | Terraform pull request automation. |
+| 2026-10-27 | [WeKnora](https://github.com/Prasanth595/WeKnora) | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 35646 | Open-source LLM knowledge platform turning documents into queryable RAG, a reasoning agent and a self-maintaining wiki. |
+| 2026-10-27 | [skyvern](https://github.com/Prasanth595/skyvern) | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 23287 | Automate browser-based workflows with AI. |
+| 2026-10-27 | [opik](https://github.com/Prasanth595/opik) | [comet-ml/opik](https://github.com/comet-ml/opik) | 22967 | Debug, evaluate and monitor LLM applications, RAG systems and agentic workflows. |
+| 2026-10-27 | [airllm](https://github.com/Prasanth595/airllm) | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 40957 | Run very large LLMs on a single 4GB GPU. |
+| 2026-10-27 | [AI-Expert-Roadmap](https://github.com/Prasanth595/AI-Expert-Roadmap) | [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | 31322 | Roadmap to becoming an Artificial Intelligence Expert. |
 
 ## How this works
 
