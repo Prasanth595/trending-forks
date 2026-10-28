@@ -140,6 +140,23 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-27 | [opik](https://github.com/Prasanth595/opik) | [comet-ml/opik](https://github.com/comet-ml/opik) | 22967 | Debug, evaluate and monitor LLM applications, RAG systems and agentic workflows. |
 | 2026-10-27 | [airllm](https://github.com/Prasanth595/airllm) | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 40957 | Run very large LLMs on a single 4GB GPU. |
 | 2026-10-27 | [AI-Expert-Roadmap](https://github.com/Prasanth595/AI-Expert-Roadmap) | [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | 31322 | Roadmap to becoming an Artificial Intelligence Expert. |
+| 2026-10-28 | [superpowers](https://github.com/Prasanth595/superpowers) | [obra/superpowers](https://github.com/obra/superpowers) | 306936 | Agentic skills framework and software development methodology for AI coding agents. |
+| 2026-10-28 | [ai-design-skills](https://github.com/Prasanth595/ai-design-skills) | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 10561 | Collection of AI agent skills for design work. |
+| 2026-10-28 | [DeepTutor](https://github.com/Prasanth595/DeepTutor) | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 47168 | Lifelong personalized AI tutoring platform. |
+| 2026-10-28 | [macro](https://github.com/Prasanth595/macro) | [macro-inc/macro](https://github.com/macro-inc/macro) | 5182 | Unified team workspace with email, chat, docs, tasks, agents, calls and CRM linked by shared AI memory. |
+| 2026-10-28 | [skills](https://github.com/Prasanth595/skills) | [expo/skills](https://github.com/expo/skills) | 3358 | AI agent skills for Expo projects and Expo Application Services. |
+| 2026-10-28 | [RuView](https://github.com/Prasanth595/RuView) | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 100541 | Turns commodity WiFi signals into real-time spatial intelligence and vital-sign monitoring without cameras. |
+| 2026-10-28 | [lens](https://github.com/Prasanth595/lens) | [lensapp/lens](https://github.com/lensapp/lens) | 23245 | Kubernetes IDE for managing clusters from a desktop GUI. |
+| 2026-10-28 | [DevOps-Roadmap](https://github.com/Prasanth595/DevOps-Roadmap) | [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | 20838 | DevOps learning roadmap for 2026 with resources. |
+| 2026-10-28 | [kubesphere](https://github.com/Prasanth595/kubesphere) | [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 17072 | Container platform for Kubernetes multi-cloud, datacenter and edge management. |
+| 2026-10-28 | [apisix-mirror](https://github.com/Prasanth595/apisix-mirror) | [apache/apisix](https://github.com/apache/apisix) | 17260 | Cloud-native API gateway and AI gateway. |
+| 2026-10-28 | [podman](https://github.com/Prasanth595/podman) | [podman-container-tools/podman](https://github.com/podman-container-tools/podman) | 33140 | Daemonless tool for managing OCI containers and pods. |
+| 2026-10-28 | [minikube](https://github.com/Prasanth595/minikube) | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 32217 | Run Kubernetes locally. |
+| 2026-10-28 | [deer-flow](https://github.com/Prasanth595/deer-flow) | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84551 | Long-horizon SuperAgent harness that researches, codes and creates with sandboxes and memory. |
+| 2026-10-28 | [unsloth](https://github.com/Prasanth595/unsloth) | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 78667 | Local UI to run and fine-tune LLMs and diffusion models. |
+| 2026-10-28 | [sim](https://github.com/Prasanth595/sim) | [simstudioai/sim](https://github.com/simstudioai/sim) | 29934 | Collaborative workspace to build, deploy and monitor AI agents and workflows. |
+| 2026-10-28 | [airflow](https://github.com/Prasanth595/airflow) | [apache/airflow](https://github.com/apache/airflow) | 47294 | Platform to programmatically author, schedule and monitor workflows. |
+| 2026-10-28 | [streamlit](https://github.com/Prasanth595/streamlit) | [streamlit/streamlit](https://github.com/streamlit/streamlit) | 46155 | Faster way to build and share data apps in Python. |
 
 ## How this works
 
