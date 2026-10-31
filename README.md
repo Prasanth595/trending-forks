@@ -187,11 +187,6 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-30 | [boilerplates](https://github.com/Prasanth595/boilerplates) | [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) | 7,994 | Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure |
 | 2026-10-30 | [GitHubDaily](https://github.com/Prasanth595/GitHubDaily) | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 48,328 | Curated list sharing high-quality, interesting open-source projects and developer tutorials |
 | 2026-10-30 | [GOAD](https://github.com/Prasanth595/GOAD) | [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) | 8,543 | Game of Active Directory - lab for Active Directory security training and pentesting practice |
-
-## How this works
-
-1. Every day, the #1 repo on https://github.com/trending is forked into this profile.
-2. That repo's entry is appended to the table above, with its description and a one-line note on what it's used for.
 | 2026-10-31 | [Orkas](https://github.com/Prasanth595/Orkas) | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 5,862 | Local-first AI team for desktop — Commander coordinates 16 specialist agents plus Claude Code, Codex and others for research, content, code and office work. |
 | 2026-10-31 | [OpenMAIC](https://github.com/Prasanth595/OpenMAIC) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 42,000 | Open multi-agent interactive classroom — turns topics or documents into slides, quizzes, simulations and AI-teacher lessons. |
 | 2026-10-31 | [vorssaint-utils](https://github.com/Prasanth595/vorssaint-utils) | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 31,530 | Free open-source macOS menu bar toolkit. |
@@ -210,3 +205,8 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-31 | [machine-learning-for-software-engineers](https://github.com/Prasanth595/machine-learning-for-software-engineers) | [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 28,879 | Complete daily plan for studying to become a machine learning engineer. |
 | 2026-10-31 | [vit-pytorch](https://github.com/Prasanth595/vit-pytorch) | [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) | 25,554 | Implementation of Vision Transformer in PyTorch for vision classification. |
 | 2026-10-31 | [ai-engineering-from-scratch](https://github.com/Prasanth595/ai-engineering-from-scratch) | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 75,905 | Learn AI engineering by building it from scratch. |
+
+## How this works
+
+1. Every day, the #1 repo on https://github.com/trending is forked into this profile.
+2. That repo's entry is appended to the table above, with its description and a one-line note on what it's used for.
