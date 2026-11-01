@@ -205,6 +205,26 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 | 2026-10-31 | [machine-learning-for-software-engineers](https://github.com/Prasanth595/machine-learning-for-software-engineers) | [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 28,879 | Complete daily plan for studying to become a machine learning engineer. |
 | 2026-10-31 | [vit-pytorch](https://github.com/Prasanth595/vit-pytorch) | [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) | 25,554 | Implementation of Vision Transformer in PyTorch for vision classification. |
 | 2026-10-31 | [ai-engineering-from-scratch](https://github.com/Prasanth595/ai-engineering-from-scratch) | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 75,905 | Learn AI engineering by building it from scratch. |
+| 2026-11-01 | [public-apis](https://github.com/Prasanth595/public-apis) | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 494,041 | A collective list of free APIs. |
+| 2026-11-01 | [Handy](https://github.com/Prasanth595/Handy) | [cjpais/Handy](https://github.com/cjpais/Handy) | 36,105 | Free, open-source, extensible speech -to-text app that works completely offline. |
+| 2026-11-01 | [kornia](https://github.com/Prasanth595/kornia) | [kornia/kornia](https://github.com/kornia/kornia) | 11,595 | Geometric computer vision library for spatial AI. |
+| 2026-11-01 | [AiSOC](https://github.com/Prasanth595/AiSOC) | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | 5,890 | Open-source AI security operations center — alert fusion, LLM-agent triage and MITRE ATT&CK investigation. |
+| 2026-11-01 | [hex](https://github.com/Prasanth595/hex) | [anomalyco/hex](https://github.com/anomalyco/hex) | 2,610 | Local-first voice dictation for macOS — hold a shortcut, speak, paste; on-device speech recognition. |
+| 2026-11-01 | [FreeToken](https://github.com/Prasanth595/FreeToken) | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 15,118 | Brings datacenter-scale model serving to your desktop — run massive models locally, fast. |
+| 2026-11-01 | [Hyprland](https://github.com/Prasanth595/Hyprland) | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 39,159 | Highly customizable dynamic tiling Wayland compositor. |
+| 2026-11-01 | [ansible-mirror](https://github.com/Prasanth595/ansible-mirror) | [ansible/ansible](https://github.com/ansible/ansible) | 71,185 | Radically simple IT automation platform for deploying and maintaining applications and systems. |
+| 2026-11-01 | [kubespray](https://github.com/Prasanth595/kubespray) | [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) | 18,806 | Deploy a production-ready Kubernetes cluster. |
+| 2026-11-01 | [awx-mirror](https://github.com/Prasanth595/awx-mirror) | [ansible/awx](https://github.com/ansible/awx) | 15,616 | Web-based UI, REST API and task engine built on top of Ansible. |
+| 2026-11-01 | [witr](https://github.com/Prasanth595/witr) | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 22,891 | Trace any process, port, container or file back to what started it — CLI + TUI. |
+| 2026-11-01 | [goreplay](https://github.com/Prasanth595/goreplay) | [probelabs/goreplay](https://github.com/probelabs/goreplay) | 19,324 | Capture and replay live HTTP traffic into a test environment. |
+| 2026-11-01 | [signoz](https://github.com/Prasanth595/signoz) | [SigNoz/signoz](https://github.com/SigNoz/signoz) | 32,493 | Open-source, OpenTelemetry-native observability platform for logs, metrics and traces. |
+| 2026-11-01 | [loki](https://github.com/Prasanth595/loki) | [grafana/loki](https://github.com/grafana/loki) | 29,104 | Like Prometheus, but for logs. |
+| 2026-11-01 | [LlamaFactory](https://github.com/Prasanth595/LlamaFactory) | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 75,817 | Unified efficient fine-tuning of 100+ LLMs and VLMs. |
+| 2026-11-01 | [yolov5](https://github.com/Prasanth595/yolov5) | [ultralytics/yolov5](https://github.com/ultralytics/yolov5) | 58,247 | YOLOv5 in PyTorch for object detection, instance segmentation, classification, training and export. |
+| 2026-11-01 | [gradio](https://github.com/Prasanth595/gradio) | [gradio-app/gradio](https://github.com/gradio-app/gradio) | 43,946 | Build and share delightful machine learning apps, all in Python. |
+| 2026-11-01 | [annotated_deep_learning_paper_implementations](https://github.com/Prasanth595/annotated_deep_learning_paper_implementations) | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 67,627 | 60+ deep learning paper implementations with side-by-side notes, including transformers. |
+
+
 
 ## How this works
 
