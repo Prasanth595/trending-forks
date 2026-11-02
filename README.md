@@ -226,6 +226,21 @@ A daily catalog of the **#1 trending repository on GitHub**, forked into [@Prasa
 
 
 
+| 2026-11-02 | [agent-desktop](https://github.com/Prasanth595/agent-desktop) | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 8,076 | Rust desktop agent framework that drives real apps via OS accessibility trees for reliable computer use. |
+| 2026-11-02 | [Scrapling](https://github.com/Prasanth595/Scrapling) | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 92,230 | Python web-scraping framework handling everything from a single request to full-scale crawls. |
+| 2026-11-02 | [colibri](https://github.com/Prasanth595/colibri) | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 46,205 | Pure-C, zero-dependency engine to run frontier MoE models on your own hardware, streaming experts from disk. |
+| 2026-11-02 | [worktrunk](https://github.com/Prasanth595/worktrunk) | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 9,846 | CLI for Git worktree management, designed for parallel AI agent workflows. |
+| 2026-11-02 | [nanochat](https://github.com/Prasanth595/nanochat) | [karpathy/nanochat](https://github.com/karpathy/nanochat) | 59,647 | Minimal, from-scratch ChatGPT-style LLM implementation and training stack. |
+| 2026-11-02 | [heretic](https://github.com/Prasanth595/heretic) | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 37,811 | Training-free language-model modification — remove censorship, suppress slop, reduce sycophancy. |
+| 2026-11-02 | [harness](https://github.com/Prasanth595/harness) | [harness/harness](https://github.com/harness/harness) | 38,791 | Open-source end-to-end developer platform with SCM, CI/CD pipelines, hosted dev environments, and artifact registries. |
+| 2026-11-02 | [gitleaks](https://github.com/Prasanth595/gitleaks) | [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 30,594 | Find secrets committed to git repos before they leak. |
+| 2026-11-02 | [vector](https://github.com/Prasanth595/vector) | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22,786 | High-performance observability data pipeline for logs, metrics, and traces. |
+| 2026-11-02 | [VictoriaMetrics](https://github.com/Prasanth595/VictoriaMetrics) | [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 17,998 | Fast, cost-effective monitoring solution and time-series database. |
+| 2026-11-02 | [earthly](https://github.com/Prasanth595/earthly) | [earthly/earthly](https://github.com/earthly/earthly) | 12,054 | Build framework with fast, repeatable builds using Dockerfile/Makefile-like syntax. |
+| 2026-11-02 | [hello-agents](https://github.com/Prasanth595/hello-agents) | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 85,758 | From-scratch tutorial on building AI agents — principles and practice. |
+| 2026-11-02 | [LocalAI](https://github.com/Prasanth595/LocalAI) | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 50,133 | Open-source local AI engine to run LLMs, vision, voice, and image models on any hardware, no GPU required. |
+| 2026-11-02 | [pm2](https://github.com/Prasanth595/pm2) | [Unitech/pm2](https://github.com/Unitech/pm2) | 43,333 | Node.js/TypeScript/Bun production process manager with a built-in load balancer. |
+| 2026-11-02 | [langfuse](https://github.com/Prasanth595/langfuse) | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36,885 | Open-source LLM agent evals and observability — trace, evaluate, and improve LLM apps. |
 ## How this works
 
 1. Every day, the #1 repo on https://github.com/trending is forked into this profile.
